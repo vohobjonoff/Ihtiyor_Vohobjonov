@@ -1,0 +1,1 @@
+// bu file JS problem lar yechimi yoziladi 
