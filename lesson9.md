@@ -6,7 +6,7 @@
 ## String methods
 ## let var const - differences
 ## ternary operator
-## switch case - examples, where it can be useful
+## switch case - examples, 
 ## type conversions
 ## Be able to discover cases of implicit data types conversion into boolean, string, number. 
 ## Strict comparison. ===
