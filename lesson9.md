@@ -1,1 +1,0 @@
-#bu yerda nima organgan bolsak yozib chiqamiz
